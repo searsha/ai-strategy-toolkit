@@ -39,6 +39,21 @@ Practical templates for evaluating AI opportunities and applying the frameworks 
 
 Sample evaluations demonstrating how the frameworks can be applied to common organizational AI initiatives.
 
+## Explore the Toolkit
+
+### Frameworks
+
+* [AI Use Case Prioritization Framework](frameworks/ai-use-case-prioritization.md)
+
+### Templates
+
+* [AI Use Case Evaluation Template](templates/ai-use-case-evaluation-template.md)
+
+### Examples
+
+* [AI Learning Pathway & Course Navigation Advisor](examples/ai-learning-pathway-advisor-evaluation.md)
+
+
 ## Areas Covered
 
 * AI Strategy
