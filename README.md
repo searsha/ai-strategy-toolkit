@@ -54,6 +54,6 @@ Sample evaluations demonstrating how the frameworks can be applied to common org
 
 ## About This Project
 
-This repository reflects my interest in the intersection of **AI strategy, organizational transformation, responsible adoption, and workforce readiness**.
+This repository reflects my interest in the intersection of AI strategy, organizational transformation, responsible adoption, and workforce readiness.
 
 The goal is to develop practical tools that help organizations move beyond AI experimentation and toward thoughtful, measurable, and sustainable implementation.
