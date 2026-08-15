@@ -91,7 +91,7 @@ and
 
 <br>
 
-> **My starting point:** AI strategy should begin with the problem, the people, and the desired outcome — not the shiny new tool.
+> **My starting point:** AI strategy should begin with the problem, the people, and the desired outcome, not the shiny new tool.
 
 
 
